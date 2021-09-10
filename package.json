@@ -1,0 +1,10 @@
+{
+  "name": "item_detail_layout_exam",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "http-server -p 8080"
+  },
+  "dependencies": {
+    "http-server": "^13.0.1"
+  }
+}
